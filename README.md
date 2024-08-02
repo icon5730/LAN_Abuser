@@ -12,6 +12,8 @@ The script performs the following operations:
 - If the user chooses to exit, the script gives the option of creating a timestamped folder and gathering all the logs and attack results for convenience.
 - If the user chooses to create a folder, an html file is produced out of the .xml Nmap scan file to make the scan results more presentable.
 
+Notes: The script was tested on Metasploitable and Windows Server 2019 VM's as a proof of concept.
+
 <b>Full Script Run:</b>
 
 ![1](https://github.com/user-attachments/assets/c68abb33-cf88-4376-b28c-1fc289796b52)
